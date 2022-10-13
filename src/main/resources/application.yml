@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+     uri: mongodb+srv://muzaffar_umar:MuzaffarEpamer33@mongodemo.msoshcw.mongodb.net/?retryWrites=true&w=majority
+     database: Task
